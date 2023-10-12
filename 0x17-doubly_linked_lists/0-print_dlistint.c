@@ -10,8 +10,8 @@ size_t nodes = 0;
 while (h)
 {
 nodes++;
-printf("%d/n", h->n);
+printf("%d\n", h->n);
 h = h->next;
 }
-return (nodes);
+return nodes;
 }
