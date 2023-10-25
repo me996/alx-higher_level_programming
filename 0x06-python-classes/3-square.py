@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""squre modulel"""
 class Square:
     """define a square."""
     def __init__(self, size=0):
