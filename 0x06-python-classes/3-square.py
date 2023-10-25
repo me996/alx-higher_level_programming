@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""squre modulel"""
+"""square module."""
 class Square:
     """define a square."""
     def __init__(self, size=0):
@@ -22,6 +22,6 @@ class Square:
         """Calculate the area of the square.
 
         Returns:
-            int: The area of the square (size squared).
+            The area of the square (size squared).
         """
         return self.__size ** 2
