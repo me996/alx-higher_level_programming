@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 class Square:
+    """define a square."""
     def __init__(self, size=0):
-        """
-        Constructor for the Square class.
+        """Constructor for the Square class.
 
         Args:
             size (int, optional): The size of the square (default is 0).
@@ -18,8 +18,7 @@ class Square:
         self.__size = size
 
     def area(self):
-        """
-        Calculate the area of the square.
+        """Calculate the area of the square.
 
         Returns:
             int: The area of the square (size squared).
