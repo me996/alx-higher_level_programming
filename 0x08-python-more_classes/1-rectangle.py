@@ -11,7 +11,7 @@ class Rectangle:
         Args:
             Width (int): the width of the new rectangle.
             height (int): the height of the new rectangle.
-        """ 
+        """
         self.width = width
         self.height = height
 
