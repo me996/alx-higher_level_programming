@@ -58,7 +58,7 @@ class Rectangle:
 
         """
         if self.__width == 0 or self.__height == 0:
-            return("")
+            return ""
 
         rect = []
         for i in range(self.__height):
