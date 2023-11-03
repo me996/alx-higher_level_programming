@@ -24,6 +24,8 @@ def add_integer(a, b=98):
     # Calculate and return the addition of a and b
     return a + b
 
+
 if __name__ == "__main__":
+
     import doctest
     doctest.testfile("tests/0-add_integer.txt")
