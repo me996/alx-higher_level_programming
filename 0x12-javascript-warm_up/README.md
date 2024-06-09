@@ -140,3 +140,6 @@ The function must be visible from outside
 The name of the function must be add
 You are not allowed to use var
 
+## 14. Const or not const
+
+Write a file that modifies the value of myVar to 333
