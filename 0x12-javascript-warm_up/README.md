@@ -160,3 +160,8 @@ The function must be visible from outside
 Prototype: function (number, theFunction)
 You are not allowed to use var
 
+## 17. Increment object
+
+Update this script by adding a new function incr that increments the integer value.
+
+You are not allowed to use var
