@@ -143,3 +143,13 @@ You are not allowed to use var
 ## 14. Const or not const
 
 Write a file that modifies the value of myVar to 333
+
+## 15. Call me Moby
+
+Write a function that executes x times a function.
+
+The function must be visible from outside
+Prototype: function (x, theFunction)
+You are not allowed to use var
+
+## 
